@@ -11,6 +11,7 @@ The purpose of this analysis is to obtain the results of the county election res
 
 -Software: Python 3.6.1, Visual Studio Code 1.51.0.
 
+# Election Audit Results 
 
 The analysis of the election show that:
 1)	The total count was retrieve by reading through the document using the <(file reader)> and looping <for>   through each row. 
