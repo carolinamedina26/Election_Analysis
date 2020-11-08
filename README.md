@@ -30,4 +30,4 @@ In the following image is the summary of the election [audtit results](Resources
 
 # Election Audit Summary
 The election audit script was written with the intention for repurposing for future elections since its language is easy to read and the only requirement is a csv  file with the key components  ` place, votes and candidate.` 
-For Example, if this code was used for a presidential elections a new variable should be implemented to reflect the each state, follow conditional if conditional to verify "how many counties most be won to win the state". 
+For Example, if this code was used for a presidential elections a new variable should be implemented to reflect the each state, a new list with counties per state and dictionary of states and amount of counties required to win to win the state. 
