@@ -4,7 +4,7 @@ The purpose of this analysis is to obtain the results of the county election res
  2)	**Percentage and total votes per county**
  3)	**Largest County Turnout**
  4)	**Percentage and total votes per candidate**
- 5)	**Name, vote count and percentage of the candidate winner **
+ 5)	**Name, vote count and percentage of the candidate winner**
 
 ## Resources 
 -**Data Source:** election_results.csv.
