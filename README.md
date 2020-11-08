@@ -16,13 +16,13 @@ The purpose of this analysis is to obtain the results of the county election res
 The analysis of the election show that:
 
 1)	**The total count** was retrieve by reading through the document using the `(file reader)` and looping `for`   through each row. 
-<screen shot >
-2) **The summary of vote count and percentage per county was retrieve by looping for an retrieving the county_vote and calculating the percentage with the formula country_ percentage= (votes_c) / (total_votes)*100. This provided the following results: 
+
+2) **The summary of vote count and percentage per county** was retrieve by looping `for` an retrieving the county_vote and calculating the percentage with the formula `country_ percentage= (votes_c) / (total_votes)*100.` This provided the following results: 
 <Screen Shot> 
   
 3)	**The county with the larges number of votes was** `Devender` and this result was obtain by implementing a conditional `if` 
 
-4)	**The summary of count and percentage of votes per candidate** was retrieve by looping `for` and retrieving the  `votes` per candidate , then calculating the percentage per each candidate with the formula: `vote_percentage= (votes) / (total_votes)*100.` The final results were the following: 
+4)	**The summary of count and percentage of votes per candidate** was retrieve by looping `for` and retrieving the  `votes` per candidate , then calculating the percentage per each candidate with the formula `vote_percentage= (votes) / (total_votes)*100.` The final results were the following: 
 
 <screen shoot> 
 
