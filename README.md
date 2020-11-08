@@ -21,7 +21,7 @@ The analysis of the election show that:
   
 3)	**The county with the larges number of votes was** `Devender` and this result was obtain by implementing a conditional `if` to obtain the `winnning_country` and `county_count`
 
-4)	**The summary of count and percentage of votes per candidate** was retrieve by looping `for` and retrieving the  `votes` per candidate , then calculating the percentage per each candidate with the formula `vote_percentage= (votes) / (total_votes)*100.` [The final results were:](Resources/summary per candidate.png)
+4)	**The summary of count and percentage of votes per candidate** was retrieve by looping `for` and retrieving the  `votes` per candidate , then calculating the percentage per each candidate with the formula `vote_percentage= (votes) / (total_votes)*100.` [The final results were:](Resources/summary_per_candidate.png)
 
 5)	**The winner of the election was Diana DeGette**. The process to obtains that result was by applying a conditional statement `if` to retrieve the  `winning_count`**272,892** and ` winning_percentage`**73.8%**
 
@@ -30,3 +30,4 @@ In the following image is the summary of the election [audtit results](Resources
 
 # Election Audit Summary
 The election audit script was written with the intention for repurposing for future elections since its language is easy to read and the only requirement is a csv  file with the key components  ` place, votes and candidate.` 
+For Example, if this code was used for a presidential elections a new variable should be implemented to reflect the each state, follow conditional if conditional to verify "how many counties most be won to win the state". 
