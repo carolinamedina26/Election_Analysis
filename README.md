@@ -17,7 +17,7 @@ The analysis of the election show that:
 
 1)	**The total count** was retrieve by reading through the document using the `(file reader)` and looping `for`   through each row and the **result was 369,711**
 
-2) **The summary of vote count and percentage per county** was retrieve by looping `for` an retrieving the county_vote and calculating the percentage with the formula `country_ percentage= (votes_c) / (total_votes)*100.` This provided the following [results:](Resources/Country count.png) 
+2) **The summary of vote count and percentage per county** was retrieve by looping `for` an retrieving the county_vote and calculating the percentage with the formula `country_ percentage= (votes_c) / (total_votes)*100.` This provided the following [results:](Resources/Country_count.png) 
   
 3)	**The county with the larges number of votes was** `Devender` and this result was obtain by implementing a conditional `if` to obtain the `winnning_country` and `county_count`
 
@@ -25,7 +25,7 @@ The analysis of the election show that:
 
 5)	**The winner of the election was Diana DeGette**. The process to obtains that result was by applying a conditional statement `if` to retrieve the  `winning_count`**272,892** and ` winning_percentage`**73.8%**
 
-In the following image is the summary of the election [audtit results](Resources/Elections summary.png)
+In the following image is the summary of the election [audtit results](Resources/Elections_summary.png)
 
 
 # Election Audit Summary
