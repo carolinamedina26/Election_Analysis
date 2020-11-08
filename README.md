@@ -17,7 +17,7 @@ The analysis of the election show that:
 
 1)	**The total count** was retrieve by reading through the document using the `(file reader)` and looping `for`   through each row and the **result was 369,711**
 
-2) **The summary of vote count and percentage per county** was retrieve by looping `for` an retrieving the county_vote and calculating the percentage with the formula `country_ percentage= (votes_c) / (total_votes)*100.` This provided the following [results:](Resources/Country_count.png) 
+2) **The summary of vote count and percentage per county** was retrieve by looping `for` an retrieving the county_vote and calculating the percentage with the formula `country_ percentage= (votes_c) / (total_votes)*100.` This provided the following [results:](Resources/Country%count.png) 
   
 3)	**The county with the larges number of votes was** `Devender` and this result was obtain by implementing a conditional `if` to obtain the `winnning_country` and `county_count`
 
